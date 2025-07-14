@@ -14,3 +14,8 @@ Privorion is an open‑source demonstrator designed to showcase how federated le
 * Demonstrate trade-offs between model accuracy and privacy (configurable ε/δ).
 * Showcase Kubernetes-native ops, including secure authentication, messaging, and scaling.
 * Serve as an educational tool for researchers, practitioners, and students to explore hierarchical federated learning.
+
+## ✅ Ideal For
+* Developers exploring privacy-first distributed ML.
+* Organizations evaluating edge/industrial AI architectures.
+* Educators teaching federated learning, distributed privacy, cloud-native, and microservices.
